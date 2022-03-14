@@ -1,0 +1,11 @@
+oppgave 3 b
+De to grunnene jeg kan finne på er at en dict kan bare ha unike key indexer
+så hvis man har en sang produsert av samme artist (hvor artist er key indexen), så vil det ikke funke
+samme gjelder om man bruker sangtittel som key, og man har 2 sanger med samme tittel.
+
+den andre grunnen er at det er lettere om det bare er en liste, fordi man skal kunne
+slette ting fra listene og legge til sanger osv, og det kan lett bli rotete med dict.
+
+oppgave 3 c
+det er ikke en fordel, fordi da må man opprette et nytt spilleliste objekt når man lager
+en ny eller endrer på musikk.txt filen

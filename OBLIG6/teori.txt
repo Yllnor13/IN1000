@@ -1,0 +1,14 @@
+oppgave 3, teorioppgave
+1. hva er innkapsling? hvorfor er det nyttig?
+  innkapsling er når du lukker koden utenfor brukerens rekkevidde.
+  den er nyttig, fordi brukeren bør ikke nødvendigvis ha tilgang til alt. de burde ha tilgang til bare det de trenger.
+  dette minker risikoen på at noe kan gå galt dersom brukeren ikke vet hva de gjør.
+2. hva er grensesnittet til en klasse? hvordan skiller det seg fra implementasjonen av en klasse?
+  grensesnittet bestemmes av objektens klasse, og et objekt tilbyr et sett med metoder.
+  Andre klasser, som string, int og float har sine egne grensesnitt
+  dette skiller seg fra implementasjonen av en klasse, hvor det er en koder som lager grensesnittet slik de vil ha det.
+3. hva er en instansmetode, og hvordan skiller dette seg fra prosedyrene/funksjonene vi har møtt hittil?
+  en instansmetode blir brukt til å definere grensesnittet til en klasse.
+  Den skiller seg fra de prosedyrene/funksjonene vi har brukt hittil
+  gjennom at prosedyre og funksjoner som vi har brukt så langt var for å repetere kode.
+  Nå bruker vi instansmetode til å lage våre egne klasser

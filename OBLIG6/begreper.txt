@@ -1,0 +1,8 @@
+oppgave 5
+A. Klassedefinisjon linje: 1 til 16
+B. opprettelse av nytt objekt: linje 19, 20
+C. def av instansvariabel: linje 3, 4, 5
+D. def av instansmetode: linje 7 til 9, 11 til 13, 15 til 16
+E. definisjon av konstruktør: linje 2 til 5
+F. kall av instansmetode: linje 21,22,25,26,27,28,31,32,33,34
+G. argumenter: linje 19, 20, 25, 26, 31, 32
